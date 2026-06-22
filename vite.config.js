@@ -10,4 +10,14 @@ export default defineConfig({
         }),
         react(),
     ],
+    build: {
+        rollupOptions: {
+            output: {
+                manualChunks: {
+                    'three-vendor': ['three', '@react-three/fiber', '@react-three/drei'],
+                    'redux-vendor': ['@reduxjs/toolkit', 'react-redux'],
+                },
+            },
+        },
+    },
 });
