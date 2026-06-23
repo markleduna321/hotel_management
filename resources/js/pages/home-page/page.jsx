@@ -113,6 +113,17 @@ function TopNav({ scrolled }) {
                 </a>
                 <span className="text-white/15">|</span>
                 <Link
+                    href="/home-v2"
+                    className="
+                        text-white/40 hover:text-amber-400/70
+                        text-[10px] tracking-widest uppercase
+                        transition-colors duration-200
+                    "
+                >
+                    Minimal View →
+                </Link>
+                <span className="text-white/15">|</span>
+                <Link
                     href="/login"
                     className="
                         px-4 py-1.5 rounded-full

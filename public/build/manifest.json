@@ -1,4 +1,18 @@
 {
+  "_ScrollTrigger-Cp0w5KLF.js": {
+    "file": "assets/ScrollTrigger-Cp0w5KLF.js",
+    "name": "ScrollTrigger",
+    "imports": [
+      "_createLucideIcon-T7x9mhF8.js"
+    ]
+  },
+  "_chevron-down-DTRMEHSn.js": {
+    "file": "assets/chevron-down-DTRMEHSn.js",
+    "name": "chevron-down",
+    "imports": [
+      "_createLucideIcon-T7x9mhF8.js"
+    ]
+  },
   "_createLucideIcon-T7x9mhF8.js": {
     "file": "assets/createLucideIcon-T7x9mhF8.js",
     "name": "createLucideIcon",
@@ -18,7 +32,7 @@
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-8w1QgZZM.js",
+    "file": "assets/app-DpFa9P2B.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
@@ -32,14 +46,15 @@
       "resources/js/pages/home-page/_sections/RoomDetailPanel.jsx",
       "resources/js/pages/home-page/_sections/ScrollCanvas.jsx",
       "resources/js/pages/home-page/page.jsx",
+      "resources/js/pages/home-v2/page.jsx",
       "resources/js/pages/profile/Edit.jsx"
     ],
     "css": [
-      "assets/app-ql-16_PI.css"
+      "assets/app-CbjQgbjC.css"
     ]
   },
   "resources/js/pages/home-page/_sections/BookingBar.jsx": {
-    "file": "assets/BookingBar-BMfiKYov.js",
+    "file": "assets/BookingBar-jgKyu-m4.js",
     "name": "BookingBar",
     "src": "resources/js/pages/home-page/_sections/BookingBar.jsx",
     "isDynamicEntry": true,
@@ -47,7 +62,8 @@
       "_three-vendor-DRJMAyi6.js",
       "_redux-vendor-COntyn5G.js",
       "resources/js/app.jsx",
-      "_createLucideIcon-T7x9mhF8.js"
+      "_createLucideIcon-T7x9mhF8.js",
+      "_chevron-down-DTRMEHSn.js"
     ]
   },
   "resources/js/pages/home-page/_sections/ExperienceCards.jsx": {
@@ -62,7 +78,7 @@
     ]
   },
   "resources/js/pages/home-page/_sections/RoomDetailPanel.jsx": {
-    "file": "assets/RoomDetailPanel-Ct5gVQos.js",
+    "file": "assets/RoomDetailPanel-C5a8O9Aw.js",
     "name": "RoomDetailPanel",
     "src": "resources/js/pages/home-page/_sections/RoomDetailPanel.jsx",
     "isDynamicEntry": true,
@@ -84,7 +100,7 @@
     ]
   },
   "resources/js/pages/home-page/page.jsx": {
-    "file": "assets/page-DzhWxxuw.js",
+    "file": "assets/page-BQkszy3i.js",
     "name": "page",
     "src": "resources/js/pages/home-page/page.jsx",
     "isDynamicEntry": true,
@@ -92,17 +108,33 @@
       "_three-vendor-DRJMAyi6.js",
       "_redux-vendor-COntyn5G.js",
       "resources/js/app.jsx",
+      "_ScrollTrigger-Cp0w5KLF.js",
       "resources/js/pages/home-page/_sections/BookingBar.jsx",
       "resources/js/pages/home-page/_sections/ExperienceCards.jsx",
       "resources/js/pages/home-page/_sections/RoomDetailPanel.jsx",
-      "_createLucideIcon-T7x9mhF8.js"
+      "_createLucideIcon-T7x9mhF8.js",
+      "_chevron-down-DTRMEHSn.js"
     ],
     "dynamicImports": [
       "resources/js/pages/home-page/_sections/ScrollCanvas.jsx"
     ]
   },
+  "resources/js/pages/home-v2/page.jsx": {
+    "file": "assets/page-n_AXjsXT.js",
+    "name": "page",
+    "src": "resources/js/pages/home-v2/page.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_three-vendor-DRJMAyi6.js",
+      "_redux-vendor-COntyn5G.js",
+      "resources/js/app.jsx",
+      "_ScrollTrigger-Cp0w5KLF.js",
+      "_createLucideIcon-T7x9mhF8.js",
+      "_chevron-down-DTRMEHSn.js"
+    ]
+  },
   "resources/js/pages/profile/Edit.jsx": {
-    "file": "assets/Edit-qyRecqTw.js",
+    "file": "assets/Edit-Db9lNee4.js",
     "name": "Edit",
     "src": "resources/js/pages/profile/Edit.jsx",
     "isDynamicEntry": true,
