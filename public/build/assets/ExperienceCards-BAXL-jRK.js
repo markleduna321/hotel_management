@@ -35,9 +35,9 @@ import{j as e}from"./three-vendor-DRJMAyi6.js";import{c as r}from"./createLucide
                             ${t.dot} opacity-80
                             shadow-[0_0_10px_2px] shadow-current
                             animate-pulse
-                        `}),e.jsx("div",{className:`mb-3 ${t.iconColor}`,children:e.jsx(i,{size:20,strokeWidth:1.5})}),e.jsx("h3",{className:"text-white text-sm font-medium tracking-wide mb-0.5",children:t.title}),e.jsx("p",{className:"text-white/40 text-[10px] tracking-[0.2em] uppercase mb-3",children:t.subtitle}),e.jsx("p",{className:"text-white/65 text-xs leading-relaxed font-light",children:t.description}),e.jsxs("button",{type:"button",className:`\r
-                                mt-4 text-[10px] tracking-[0.25em] uppercase\r
-                                text-white/40 hover:text-white/80\r
-                                transition-colors duration-200\r
-                                flex items-center gap-1.5\r
+                        `}),e.jsx("div",{className:`mb-3 ${t.iconColor}`,children:e.jsx(i,{size:20,strokeWidth:1.5})}),e.jsx("h3",{className:"text-white text-sm font-medium tracking-wide mb-0.5",children:t.title}),e.jsx("p",{className:"text-white/40 text-[10px] tracking-[0.2em] uppercase mb-3",children:t.subtitle}),e.jsx("p",{className:"text-white/65 text-xs leading-relaxed font-light",children:t.description}),e.jsxs("button",{type:"button",className:`
+                                mt-4 text-[10px] tracking-[0.25em] uppercase
+                                text-white/40 hover:text-white/80
+                                transition-colors duration-200
+                                flex items-center gap-1.5
                             `,children:["Explore",e.jsx("svg",{width:"12",height:"12",viewBox:"0 0 12 12",fill:"none",children:e.jsx("path",{d:"M2 6h8M7 3l3 3-3 3",stroke:"currentColor",strokeWidth:"1.2",strokeLinecap:"round",strokeLinejoin:"round"})})]})]},t.id)})})}export{x as default};
